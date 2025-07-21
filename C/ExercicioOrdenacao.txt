@@ -1,0 +1,18 @@
+Exercício: Ordenando 20 números usando ponteiros e qsort
+📝 Enunciado:
+1. Crie um programa em linguagem C que:
+2. Leia 20 números inteiros fornecidos pelo usuário.
+3. Armazene esses números em um array.
+4. Use ponteiros para passar os dados para a função qsort, que deve ordenar os números em ordem crescente.
+5. Exiba o array ordenado utilizando aritmética de ponteiros (ou seja, sem usar numeros[i] diretamente).
+
+Objetivos de aprendizado:
+Compreender o uso de ponteiros para arrays.
+Aplicar aritmética de ponteiros (como *(ptr + i)).
+Entender como passar ponteiros para funções da biblioteca (qsort).
+Reforçar boas práticas de entrada/saída e modularização.
+------------------------------------------------------------------------------------------------
+💡 Desafio adicional (opcional):
+Modifique o código para:
+Ordenar os números em ordem decrescente.
+Criar uma função imprimir_array(int *v, int n) que use ponteiros para imprimir os valores.
