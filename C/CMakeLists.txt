@@ -11,5 +11,7 @@ add_executable(Estudos cards/cards.c
         string/strings.c
         fgets/fgets.c
         cardsv2/cardsv2.c
-        Exercicios/Ponteiros/Exe01/Exercicio1.c
+        Exercicios/Ponteiros/Exe01/Exe01.c
+        Exercicios/Ponteiros/Exe02/Exe02.c
+        Exercicios/Ponteiros/Exe03/exe_03.c
 )
