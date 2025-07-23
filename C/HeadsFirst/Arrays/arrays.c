@@ -4,6 +4,16 @@
 ! ARRAYS SEMPRE COMEÇAM EM 0!!!
 ! int array[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 !                0  1  2  3  4  5  6  7  8   9
+* Também é possível definir um array globalmente, fora do escopo de qualquer função:
+*
+* char meu_array[] = {1, 2, 3, 4};
+*
+* void generic() {}
+*
+* int main() {
+*   printf("%i", meu_array[2]); // Acessando o número 3 do array
+*   return 0;
+* }
 */
 
 # include <stdio.h>

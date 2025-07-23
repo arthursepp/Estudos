@@ -28,6 +28,10 @@ Makefile
 .ninja_log
 cmake_install.cmake
 
+# --- Módulos, pacotes e bibliotecas ---
+.venv/
+node_modules/
+
 # --- Outros arquivos temporários ---
 *.log
 *.tmp
