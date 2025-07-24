@@ -18,4 +18,6 @@ add_executable(Estudos cards/cards.c
         Strings/arrays/arrays.c
         Strings/string_h/string_h.c
         Strings/strlen/strlen.c
+        Input/separar_por_virgula/separar_por_virgula.c
+        Testes/calculadora_porcentagem.c
 )
